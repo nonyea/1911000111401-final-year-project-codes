@@ -1,6 +1,6 @@
 # health-mobileapp-javascript-reactnative
 
-![image](https://github.com/nonyea/health-mobileapp-javascript-reactnative/assets/63011104/6f3cb73b-e298-4af7-937c-918b3023dcf7)
+![image](https://github.com/nonyea/health-mobileapp-javascript-reactnative/assets/63011104/f09096bb-55bb-4336-8154-7f9bccd09573)
 ![image](https://github.com/nonyea/health-mobileapp-javascript-reactnative/assets/63011104/690450a2-2112-4d86-8581-e7d13f08e686)
 
 ![image](https://github.com/nonyea/health-mobileapp-javascript-reactnative/assets/63011104/a498b821-f740-46b2-b42c-07cfd46cfc5b)
